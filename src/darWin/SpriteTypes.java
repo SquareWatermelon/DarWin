@@ -1,0 +1,4 @@
+package darWin;
+
+public enum SpriteTypes { PLAYER, PREDATOR, PREDATOR_SLIDE, PREY, PREY_SLIDE, 
+    GRASS, DIRT, PREDATOR_HAPPY, PREDATOR_TOP }
