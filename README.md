@@ -6,8 +6,8 @@ Early Java Version of a game that includes a evolving character and pool ball ph
 This is the early PC version of the game, I may create a repository for the more advanced 
 Android version later.
 
-Notably this version of the game steps forward using a timer. This is not the best way to do 
-things so Android version does not.
+Notably in this version of the game the graphics are also on the timer thread. This is not the best way to do 
+things so Android version will not.
 
 
 
